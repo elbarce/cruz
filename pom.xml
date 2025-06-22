@@ -10,4 +10,17 @@
         <maven.compiler.release>21</maven.compiler.release>
         <exec.mainClass>com.mycompany.cruz.Cruz</exec.mainClass>
     </properties>
+    <dependencies>
+        <dependency>
+            <groupId>com.formdev</groupId>
+            <artifactId>flatlaf</artifactId>
+            <version>3.6</version>
+        </dependency>
+        <dependency>
+            <groupId>com.formdev</groupId>
+            <artifactId>flatlaf-intellij-themes</artifactId>
+            <version>3.6</version>
+        </dependency>
+    </dependencies>
+        
 </project>
