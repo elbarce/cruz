@@ -1,2 +1,6 @@
-dejo en 11.43
+dejo en la mitad del primer coso largo
 https://www.youtube.com/watch?v=AgJMFhxvA40
+15/7
+wipeo todo, decido trabajar por instancias breves y abarcando una funcionalidad por vez
+Ahora armando la primera interfaz o dashboard
+
