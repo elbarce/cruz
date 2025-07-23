@@ -4,6 +4,8 @@
 
 package com.mycompany.cruz;
 
+import views.Dashboard;
+
 /**
  *
  * @author axelb
@@ -11,6 +13,7 @@ package com.mycompany.cruz;
 public class Cruz {
 
     public static void main(String[] args) {
-        System.out.println("Hello World!");
+        Dashboard principal = new Dashboard();
+        
     }
 }
